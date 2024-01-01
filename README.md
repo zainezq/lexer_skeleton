@@ -33,7 +33,7 @@ These lexers are incomplete and may not handle all possible input cases. They ar
 - Recognize the challenges and considerations in lexer development.
 
 ## Compiler Diagram 
-   **A simple diagram to help understand how compilers work**
+   **A simple diagram to help understand how compilers work:**
    
    ![Compilation Diagram](https://github.com/zainezq/lexer_skeleton/blob/main/CompilerDiagram.png)
 
