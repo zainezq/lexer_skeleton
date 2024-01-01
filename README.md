@@ -32,6 +32,10 @@ These lexers are incomplete and may not handle all possible input cases. They ar
 - Explore tokenization of simple constructs such as integers, floats, and identifiers.
 - Recognize the challenges and considerations in lexer development.
 
+## Compiler Diagram 
+   **A simple diagram to help understand how compilers work**
+   ![Compilation Diagram](https://github.com/zainezq/lexer_skeleton/blob/main/CompilerDiagram.png)
+
 ## Contributing
 
 Feel free to contribute to these lexers by addressing their limitations, adding new features, or enhancing their robustness. Contributions that help learners understand the principles behind lexing are highly encouraged.
